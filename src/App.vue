@@ -54,7 +54,7 @@ export default {
           imagen: "https://placeimg.com/192/192/people",
         },
         {
-          id: 2,
+          codigo: 2,
           nombre: "Integrante 2",
           descripcion:
             "2. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis, laudantium tempore, provident corporis iure ex libero repellendus accusamus accusantium at voluptate excepturi voluptatem quis, illo modi exercitationem error consequatur.",
@@ -62,7 +62,7 @@ export default {
           imagen: "https://placeimg.com/192/192/nature",
         },
         {
-          id: 3,
+          codigo: 3,
           nombre: "Integrante 3",
           descripcion:
             "3. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis, laudantium tempore, provident corporis iure ex libero repellendus accusamus accusantium at voluptate excepturi voluptatem quis, illo modi exercitationem error consequatur.",
@@ -70,7 +70,7 @@ export default {
           imagen: "https://placeimg.com/192/192/architecture",
         },
         {
-          id: 4,
+          codigo: 4,
           nombre: "Integrante 4",
           descripcion:
             "4. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis, laudantium tempore, provident corporis iure ex libero repellendus accusamus accusantium at voluptate excepturi voluptatem quis, illo modi exercitationem error consequatur.",
@@ -78,7 +78,7 @@ export default {
           imagen: "https://placeimg.com/192/192/animals",
         },
         {
-          id: 5,
+          codigo: 5,
           nombre: "Integrante 5",
           descripcion:
             "5. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis, laudantium tempore, provident corporis iure ex libero repellendus accusamus accusantium at voluptate excepturi voluptatem quis, illo modi exercitationem error consequatur.",
